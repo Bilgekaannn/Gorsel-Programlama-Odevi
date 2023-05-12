@@ -1,1 +1,1 @@
-# Proje1
+# Gorsel-Programlama-Odevi
